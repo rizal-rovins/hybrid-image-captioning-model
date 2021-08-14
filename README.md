@@ -1,4 +1,4 @@
-# A Hybrid Method for Combining LSTM and Nearest Neighbor Approach for Image Captioning
+# A Hybrid Model for Combining Neural Image Caption and k-Nearest Neighbor Approach for Image Captioning
 Official code repository for the conference paper [A Hybrid Model for Combining Neural Image Caption and k-Nearest Neighbor Approach for Image Captioning](https://link.springer.com/chapter/10.1007/978-981-16-1249-7_6)
 # Description
 We first individually implement the nearest neighbor approach and the neural network specifically, LSTM based approach to image captioning. We then propose a hybrid technique
